@@ -20,3 +20,4 @@ How to start this project: Create one or more TicketMachine objects.
 5.The outer wrapper of the Students and Labclass might have looked like:
 public class Labclass
 public int numberOfStudents()
+6. It does matter. The class diagram changed to red stripes and you can not compile the class.
