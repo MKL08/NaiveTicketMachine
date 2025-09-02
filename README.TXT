@@ -22,3 +22,4 @@ public class Labclass
 public int numberOfStudents()
 6. It does matter. The class diagram changed to red stripes and you can not compile the class.
 12. int, string, string
+13. alive, tutor and game.
