@@ -15,3 +15,4 @@ How to start this project: Create one or more TicketMachine objects.
 
 Answers to the questions:
 2.The value returned after you printed the ticket is 0.
+3.After inserting too much or too little amount of money into the machine, the printed ticket does no give you a refund. It will automatically set it as if you paid the exact amount.
