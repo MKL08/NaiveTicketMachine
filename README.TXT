@@ -21,3 +21,4 @@ How to start this project: Create one or more TicketMachine objects.
 public class Labclass
 public int numberOfStudents()
 6. It does matter. The class diagram changed to red stripes and you can not compile the class.
+12. int, string, string
