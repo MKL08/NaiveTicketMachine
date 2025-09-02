@@ -13,9 +13,14 @@ It is discussed in chapter 2.
 Purpose of project: To illustrate the basics of fields, constructors, and methods.
 How to start this project: Create one or more TicketMachine objects.
 
+<<<<<<< HEAD
 =======
 ******Answers to the questions:******
 2.The value returned after you printed the ticket is 0.
 3.After inserting too much or too little amount of money into the machine, the printed ticket does no give you a refund. It will automatically set it as if you paid the exact amount.
 4.Nothing really changed but the the amount due for the ticket.
->>>>>>> b55710a2842779374db20991a2bd9f47dfb82e29
+5.The outer wrapper of the Students and Labclass might have looked like:
+public class Labclass
+public int numberOfStudents()
+6. It does matter. The class diagram changed to red stripes and you can not compile the class.
+>>>>>>> db2250f73a5fed3d2a31efbeab0df11125fac1ce
