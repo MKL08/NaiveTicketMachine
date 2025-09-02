@@ -27,4 +27,8 @@ public int numberOfStudents()
 
 =======
 12. int, string, string
+<<<<<<< HEAD
 >>>>>>> 4fc6a82f04687a1518aa812bf79dc363be4e929c
+=======
+13. alive, tutor and game.
+>>>>>>> 9fb5ead599e631f34a2633b398752cc758786a67
