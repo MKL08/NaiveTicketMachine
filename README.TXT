@@ -41,4 +41,6 @@ public int numberOfStudents()
 
 17. public int status;
 
-18. Student
+18.Student.
+
+19. There are two and their type is String and double
