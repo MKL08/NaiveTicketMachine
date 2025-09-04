@@ -58,3 +58,5 @@ public int numberOfStudents()
 day=23;
 year=1861;
 }
+
+23.The difference between the two is the class name 
