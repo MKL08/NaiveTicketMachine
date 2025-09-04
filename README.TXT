@@ -64,3 +64,8 @@ year=1861;
 24."What do I get back?"
 
 25.It dosne't have to be changed. 
+
+26.public int getTotal()
+{
+    return total;
+}
