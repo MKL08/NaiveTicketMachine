@@ -51,3 +51,10 @@ public int numberOfStudents()
 {
  private String name
 }
+
+22.challenge: public newDate(String "month", String day , String year)
+{
+"month"= "March";
+day=23;
+year=1861;
+}
