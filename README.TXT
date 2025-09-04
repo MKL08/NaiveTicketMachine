@@ -71,3 +71,5 @@ year=1861;
 }
 
 27. "missing return statement"
+
+28.getPrice is a getter methode, printTicket is to print out the ticket, and TicketMachinne is the main header for the entire code.
