@@ -75,3 +75,11 @@ year=1861;
 28.getPrice is a getter methode, printTicket is to print out the ticket, and TicketMachinne is the main header for the entire code.
 
 29.They do not have the return statement because they are not setters.
+
+31./**
+* Increase score by the given number of points.
+*/
+public void increaseScore(int points)
+{
+// score = score + points
+}
