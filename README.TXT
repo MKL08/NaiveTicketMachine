@@ -83,3 +83,5 @@ public void increaseScore(int points)
 {
 // score = score + points
 }
+
+32. Yes it is.
