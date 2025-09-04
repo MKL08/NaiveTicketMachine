@@ -38,3 +38,5 @@ public int numberOfStudents()
 15.The order of the three words do count.
 
 16. It is important to add the semicolon after a line of code.
+
+17. public int status; 
