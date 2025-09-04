@@ -39,4 +39,6 @@ public int numberOfStudents()
 
 16. It is important to add the semicolon after a line of code.
 
-17. public int status; 
+17. public int status;
+
+18. Student
