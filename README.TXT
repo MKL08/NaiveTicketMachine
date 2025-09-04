@@ -69,3 +69,5 @@ year=1861;
 {
     return total;
 }
+
+27. "missing return statement"
