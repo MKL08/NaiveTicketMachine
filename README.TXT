@@ -32,3 +32,5 @@ public int numberOfStudents()
 =======
 13. alive, tutor and game.
 >>>>>>> 9fb5ead599e631f34a2633b398752cc758786a67
+
+14.count, Student, Server, boolean, Person, Game.
