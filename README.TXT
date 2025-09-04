@@ -85,3 +85,12 @@ public void increaseScore(int points)
 }
 
 32. Yes it is.
+
+33./**
+* Reduce price by the given amount.
+*/
+public void discount(int amount)
+{
+// price = price - amount
+}
+
