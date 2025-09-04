@@ -44,3 +44,5 @@ public int numberOfStudents()
 18.Student.
 
 19. There are two and their type is String and double
+
+20.we can know.
