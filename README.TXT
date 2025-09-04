@@ -46,3 +46,8 @@ public int numberOfStudents()
 19. There are two and their type is String and double
 
 20.we can know.
+
+21.public Pet(String petsName)
+{
+ private String name
+}
